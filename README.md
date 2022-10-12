@@ -1,3 +1,4 @@
+![MasterHead](https://media-exp1.licdn.com/dms/image/D4D16AQFJTEGLF0q-2Q/profile-displaybackgroundimage-shrink_350_1400/0/1664336871964?e=1671062400&v=beta&t=4HkngEF17RGfxyArUKUSzy-MlO-G10T19wQWw5tZVss)
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate Computer Engineering Student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
