@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhareas&label=Profile%20views&color=0e75b6&style=flat" alt="sakhareas" /> </p>
 
-- :man_technologist: Pursuing Mtech @COEP Pune
+- :man_student: Pursuing Mtech @COEP Pune
 
-- 🌱 I’m currently learning **Blockchain Technology**
+- :man_technologist: I’m currently learning **Blockchain Technology**
 
 - 📝 I regularly write articles on [sakhareas21.blogspot.com](sakhareas21.blogspot.com)
 
